@@ -1,4 +1,4 @@
-import WalletCard from "@/components/WalletCard"
+import '../components/WalletCard'
 
 export default function Home() {
   return (
